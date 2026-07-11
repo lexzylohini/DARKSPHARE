@@ -19,5 +19,5 @@
 ## 📦 Instalasi
 ```bash
 git clone https://github.com/lexzy lohini/DARKSPHERE-TOOLS.git
-cd DARKSPHERE
+cd DARKSPHARE
 pip install -r requirements.txt
