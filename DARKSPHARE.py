@@ -180,7 +180,7 @@ def banner():
 ║ Users     : {W}17{R}                                   ║
 ║ Date      : {W}{today}{R}                           ║
 ║ Python    : {W}{platform.python_version()}{R}                               ║
-║ OS        : {W}{platform.system()} {platform.release()}{R}                          ║
+║ OS        : {W}{platform.system()} {platform.release()}{R}                           ║
 ╚══════════════════════════════════════════════════╝
 {W}""")
 
@@ -755,16 +755,16 @@ def main():
     while True:
         clear()
         banner()
-        print(f"{R}  {B}[0]{W} {R}INFO DEVICE")
-        print(f"{R}  {B}[1]{W} {R}SPAM EMAIL")
-        print(f"{R}  {B}[2]{W} {R}SPAM APIKEY AI")
-        print(f"{R}  {B}[3]{W} {R}OSINT")
-        print(f"{R}  {B}[4]{W} {R}SPAM NGL")
-        print(f"{R}  {B}[5]{W} {R}CEK WHATSAPP")
-        print(f"{R}  {B}[6]{W} {R}DETEKSI SITEKEY")
-        print(f"{R}  {B}[7]{W} {R}CEK KUOTA")
-        print(f"{R}  {B}[8]{W} {R}ADD SENDER")
-        print(f"{R}  {B}[9]{W} {R}SHOW SENDER")
+        print(f"{R}  {B}[00]{W} {R}INFO DEVICE")
+        print(f"{R}  {B}[01]{W} {R}SPAM EMAIL")
+        print(f"{R}  {B}[02]{W} {R}SPAM APIKEY AI")
+        print(f"{R}  {B}[03]{W} {R}OSINT")
+        print(f"{R}  {B}[04]{W} {R}SPAM NGL")
+        print(f"{R}  {B}[05]{W} {R}CEK WHATSAPP")
+        print(f"{R}  {B}[06]{W} {R}DETEKSI SITEKEY")
+        print(f"{R}  {B}[07]{W} {R}CEK KUOTA")
+        print(f"{R}  {B}[08]{W} {R}ADD SENDER")
+        print(f"{R}  {B}[09]{W} {R}SHOW SENDER")
         print(f"{R}  {B}[10]{W} {R}GET CODE HTML")
         print(f"{R}  {B}[11]{W} {R}EXIT{W}")
         print("")
