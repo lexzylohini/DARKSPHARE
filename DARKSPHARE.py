@@ -795,7 +795,7 @@ if __name__ == "__main__":
     try:
         main()
     except KeyboardInterrupt:
-        print(f"\n{R}[x] Dibatalkan oleh user.{W}")config = load_config()
+        print(f"\n{R}[x] Dibatalkan oleh user.{W}"); config = load_config()
 
 # Ambil dari config, kalo gak ada pake default kosong
 EMAIL_SENDER = config.get("email", {}).get("sender", "")
