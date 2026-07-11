@@ -172,15 +172,15 @@ def banner():
 
     print(f"""{R}{B}
 ╔══════════════════════════════════════════════════╗
-║               𝑫𝑨𝑹𝑲𝑺𝑷𝑯𝑬𝑹𝑬 5.0                        ║
+║               𝑫𝑨𝑹𝑲𝑺𝑷𝑯𝑬𝑹𝑬 5.0                      ║
 ╠══════════════════════════════════════════════════╣
-║ Developer : {W}LEXZY{R}                             ║
-║ Designer  : {W}LEXZY{R}                             ║
-║ Version   : {W}5.0{R}                               ║
-║ Users     : {W}17{R}                                ║
+║ Developer : {W}LEXZY{R}                               ║
+║ Designer  : {W}LEXZY{R}                               ║
+║ Version   : {W}5.0{R}                                 ║
+║ Users     : {W}17{R}                                  ║
 ║ Date      : {W}{today}{R}                           ║
-║ Python    : {W}{platform.python_version()}{R}                         ║
-║ OS        : {W}{platform.system()} {platform.release()}{R}             ║
+║ Python    : {W}{platform.python_version()}{R}                             ║
+║ OS        : {W}{platform.system()} {platform.release()}{R}                     ║
 ╚══════════════════════════════════════════════════╝
 {W}""")
 
