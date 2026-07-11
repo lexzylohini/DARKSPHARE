@@ -1,6 +1,6 @@
-# 𝑫𝑨𝑹𝑲𝑺𝑷𝑯𝑬𝑹𝑬 v3.0
+# 𝑫𝑨𝑹𝑲𝑺𝑷𝑯𝑬𝑹𝑬 v5.0
 
-> Tools Spam Email + API Key + OSINT + Get HTML Code
+> update tampilan dan fiture new!!
 
 ## ⚠️ Disclaimer
 **Hanya untuk edukasi dan pengujian pada sistem yang Anda miliki.**
@@ -11,9 +11,13 @@
 - [x] Spam API Key AI (Groq, OpenAI, Gemini, Claude, dll)
 - [x] OSINT - Cari Akun Sosmed (26 platform)
 - [x] Get Code HTML
+- [x] Cek Nomer
+- [x] Cek Kartu
+- [x] Spam Ngl
+- [x] Deteksi SiteKey
 
 ## 📦 Instalasi
 ```bash
-git clone https://github.com/username/DARKSPHERE-TOOLS.git
+git clone https://github.com/lexzy lohini/DARKSPHERE-TOOLS.git
 cd DARKSPHERE
 pip install -r requirements.txt
